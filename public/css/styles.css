@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Dancing+Script:wght@700&family=Ephesis&family=Merienda+One&family=Sigmar+One&display=swap');
+
+/* font-family: 'Merienda One', cursive; */
+/* font-family: 'Aboreto', cursive; */
+/* font-family: 'Sigmar One', cursive; */
+
+body {
+  background-color: #fff;
+  background-image: url("https://www.transparenttextures.com/patterns/low-contrast-linen.png");
+}
+
+.container-home {
+  padding-top: 260px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 7rem;
+  padding-bottom: 400px;
+  font-family: 'Dancing Script', cursive;
+}
+
+.body {
+  padding-bottom: 300px;
+}
+
+.ptag {
+  padding-bottom: 50px;
+}
+
+.ptag h2 {
+  font-size: 3.3rem;
+  font-family: 'Aboreto', cursive;
+
+}
+
+.ptag p {
+  font-family: 'Ephesis', cursive;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+
+.btn1 {
+  padding: 10px 80px 10px 80px;
+  background-color: #000; 
+}
+
+.register h1 {
+  font-size: 2rem;
+}
+
+.register-form input{
+  text-align: left;
+  padding: 13px 120px;
+}
+
+.container p{
+  font-size: 3rem;
+  font-family: 'Ephesis', cursive;
+}
+
+.centered {
+  padding-top: 150px;
+  text-align: center;
+  padding-bottom: 200px;
+}
+
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.yay {
+  text-align: center;
+}
+
+.hello h1 {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+.hello h2 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+@media (min-width: 1025px) {
+  .h-custom-2 {
+    height: 100%;
+  }
+}
+
+
+@media (max-width: 799px) {
+  .hello h1{
+    font-size: 3rem;
+    padding: 30px 40px 30px 40px;
+  }
+
+  .hello h2{
+    font-size: 3rem;
+    padding: 30px 40px 30px 40px;
+  }
+
+}
