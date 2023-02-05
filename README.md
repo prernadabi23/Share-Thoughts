@@ -1,5 +1,5 @@
 # Random-Thoughts
-A Random Thoughts website built on nodejs, express, Bootstrap, EJS, MongoDB and Googleauth20. <br>
+A Random Thoughts website built on nodejs, express, Bootstrap, EJS, MongoDB(cookies). <br>
 
 ## Requirements
 
