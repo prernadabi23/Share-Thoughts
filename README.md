@@ -1,5 +1,5 @@
 # Random-Thoughts
-A Random Thoughts website built on nodejs, express, Bootstrap, EJS, MongoDB(cookies). <br>
+A Random Thoughts website built on nodejs, express, Bootstrap, EJS, MongoDB. <br>
 
 ![Screenshot_20230205_123009](https://user-images.githubusercontent.com/104578155/216806104-5a08a533-312e-4994-91c2-aa8ef51d3785.png)
 
